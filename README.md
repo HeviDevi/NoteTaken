@@ -6,5 +6,5 @@ I have created a webb app that stores notes so that the user can keep track of u
 
 ## Usage
 
-Simply Write the Title & body of the note in in their respective fields. Then press the "Save Note" button that appears at the top right. 
+Simply write the title & body of the note in in their respective fields. Then press the "Save Note" button that appears at the top right. 
 
